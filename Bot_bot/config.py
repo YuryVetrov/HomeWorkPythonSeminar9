@@ -1,0 +1,2 @@
+botkey = '5401746778:AAEJiFNUMsN-J5ecOt_Re23lEJ0sa0M-U3Q' # ТОКЕН С BOTFATHER
+admin = 660549564
